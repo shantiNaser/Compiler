@@ -1,0 +1,14 @@
+void main ( )
+{
+if ( fp > 1 )
+{
+row = 1 ;
+while ( row < 5 ) 
+{  
+row = 1 + row ;
+for ( int i = 0 ; i < 8 ; i ++ )
+j = i ;	
+
+}
+}
+}
